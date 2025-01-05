@@ -1,0 +1,15 @@
+/*Universal selector*/
+* {
+    background-color: cyan;
+}
+
+/*Element selector*/
+button {
+    font-size: 30px;
+}
+
+/*Combined element selector*/
+h1,
+h2 {
+    color: magenta
+}
